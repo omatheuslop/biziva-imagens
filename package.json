@@ -13,7 +13,8 @@
   "scripts": {
     "server": "webpack serve --mode development --env development --open",
     "dev": "webpack --mode development",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "postbuild": "node scripts/biziva-version.cjs"
   },
   "repository": {
     "type": "git",
