@@ -1,60 +1,27 @@
-# miniPaint
+![Biziva Imagens — Sua composição em cena.](BIZIVA-hero.svg)
 
-Online image editor lets you create and edit images using HTML5 technologies. No need to buy, download, install, or have outdated flash. No ads. Key features: layers, filters, open source Photoshop alternative.
+# Biziva Imagens
 
-miniPaint operates directly in the browser. You can create images by pasting from the clipboard (ctrl+v) or uploading from the computer (_using menu or drag & drop_). Nothing will be sent to any server. Everything stays in your browser. 
+**Sua composição em cena.** Edite imagens e componha campanhas com camadas de texto.
 
-## URL:
-**https://viliusle.github.io/miniPaint/**
+[**Experimentar no navegador →**](https://biziva-imagens.matheuslopesmgo.chatgpt.site) · [Integração Biziva](BIZIVA.md) · [Documentação original](README.upstream.md)
 
-## Preview:
-![miniPaint](https://raw.githubusercontent.com/viliusle/miniPaint/master/images/preview.gif)
-(generated using miniPaint)
+## Comece em minutos
 
-**Change log:** [/miniPaint/releases](https://github.com/viliusle/miniPaint/releases)
+1. Abra o aplicativo e entre com sua conta quando solicitado.
+2. Crie ou abra um projeto e experimente as ferramentas do editor.
+3. Revise e exporte seu trabalho pelas opções disponíveis no aplicativo.
 
-## Browser Support
-- Chrome
-- Firefox
-- Opera
-- Edge
-- Safari
-- Yandex
+Projetos ficam no navegador. Faça cópias e exporte o que deseja guardar. Recursos de IA exigem configuração e chave/carteira própria; o acesso ao editor não inclui créditos de IA. Recursos opcionais do projeto original podem exigir configuração adicional.
 
-## Features
+## English
 
-**Files**: open images, directories, URLs, data URLs, drag and drop, save (PNG, JPG, BMP, WEBP, animated GIF, TIFF, JSON (layers data), print.
+**Set your composition in motion.** Edit images and compose campaigns with editable text layers.
 
-**Edit**: undo, cut, copy, paste, selection, paste from the clipboard.
+[Open the active application](https://biziva-imagens.matheuslopesmgo.chatgpt.site). Sign in when prompted, create a project and review your export. Projects are browser-local; keep backups. AI features require your own configured key and balance. Optional upstream integrations may require additional setup.
 
-**Image**: information, EXIF, trim, zoom, resize (Hermite resample, default resize), rotate, flip, color corrections (brightness, contrast, hue, saturation, luminance), automatic color adjustment, grid, histogram, negative.
+## Origem, créditos e licença / Upstream and license
 
-**Layers**: multi-layer system, differences, merging, flattening, transparency support.
+Este projeto é uma adaptação de [viliusle/miniPaint](https://github.com/viliusle/miniPaint). O histórico, os créditos e os arquivos de licença originais foram preservados. A apresentação Biziva não altera a autoria do projeto original nem seus termos de licença.
 
-**Effects**: black and white, blur (box, gaussian, stack, zoom), bulge/pinch, denoise, desaturation, dither, dot screen, edge, emboss, enrich, gamma, grains, grayscale, heatmap, jpg compression, mosaic, oil, sepia, sharpen, solarize, tilt shift, vignette, vibrance, vintage, blueprint, night vision, pencil, also instagram filters: 1977, aden, clarendon, gingham, inkwell, lo-fi, toaster, valencia, x-pro ii.
-
-**Tools**: pencil, brush, magic wand, eraser, fill, color picker, letter, crop, blur, sharpener, desaturation, clone, borders, sprites, keypoints, color zoom, change color, restore transparency, content fill. 
-
-**Help**: keyboard shortcuts, translation.
-
-## Embed
-To embed this app on another page, use the following HTML code:
-
-    <iframe style="box-sizing:border-box; width:100%; height:100vh;" id="miniPaint" src="https://viliusle.github.io/miniPaint/" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Build instructions
-See [Wiki > Build instructions](https://github.com/viliusle/miniPaint/wiki/Build-instructions)
-
-## Wiki
-See [Wiki](https://github.com/viliusle/miniPaint/wiki)
-
-## Contributors
-<a align="center" href="https://github.com/viliusle/miniPaint/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=viliusle/miniPaint" />
-</a>
-
-## License
-MIT License
-
-## Support
-Please use the GitHub issues for support, feature requests and bug reports, or contact us by sending an email to www.viliusl@gmail.com.
+Read the complete [original README](README.upstream.md) for upstream setup, contributors, acknowledgments and license information. Biziva adaptations are documented in [BIZIVA.md](BIZIVA.md).
